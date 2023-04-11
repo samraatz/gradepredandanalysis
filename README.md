@@ -1,5 +1,5 @@
 # gradepredandanalysis
-Analysis student datasets and their features, creating a ml model to predict grades and see how we can assist students to overcome whatever hurdles they may be facing.
+Analysis of student datasets and their features, creating a ml model to predict grades and see how we can assist students to overcome whatever hurdles they may be facing.
 The objective of this  is to analyze student data and make a grade predicting model.
 Via analyzing the student data we will be able to see which features effect a student’s grades the most.
 The predictive model can be used to predict which students may score bad in an exam, helping us create a list and automatically contact them to provide them with the necessary educational help.
@@ -21,4 +21,4 @@ If we can find out the answers to the questions above we will be able to improve
 # datasetwork
 
 I edited the dataset into a schoo and home part to study features and link their impportance,
-"Dataser edit and adding new features.ipynb" contains code to create a new feature called assndays wich is amoint of days taken to submit the assignment, i had added it to make a better predcitor since accuracy was not getting higher even after tuning.
+"Dataset edit and adding new features.ipynb" contains code to create a new feature called assndays wich is amoint of days taken to submit the assignment, i had added it to make a better predcitor since accuracy was not getting higher even after tuning.
