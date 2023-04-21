@@ -2,7 +2,7 @@
 Analysis of student datasets and their features, creating a ml model to predict grades and see how we can assist students to overcome whatever hurdles they may be facing.
 
 # Objective
-The objective of this  is to analyze student data and make a grade predicting model.
+The objective of this paper is to analyze student data and make a grade predicting model.
 Via analyzing the student data we will be able to see which features effect a student’s grades the most.
 The predictive model can be used to predict which students may score bad in an exam, helping us create a list and automatically contact them to provide them with the necessary educational help.
 The model will also be able to predict which students are likely to score higher, and if they don’t , we will be able to investigate why they did not and what factors link to their lack of performance.
@@ -23,7 +23,7 @@ By analyzing the student data we will be able to see exactly why these anomalies
 # Dataset
 
 Scoured for the dataset on kaggle.
-I edited the dataset into a school dataset and a dataset with fatures related to home and family.
-This will help us see how different features come into play in determining out target variable.
+I edited the dataset into a school dataset and a dataset with features related to home and family.
+This will help us see how different features come into play in determining our target variable.
 "Dataset edit and adding new features.ipynb" contains code to create a new feature called assndays wich is amount of days taken to submit the assignment.
-I had added the code to generate such a feature in order to make this project a little more realistic. The code includes the trial and errors i went through. Successful trial generates assignment days where a larger number is assigned to students with low activity in class.
+I had added the code to generate such a feature in order to make this project a little more realistic. The code includes the trial and errors i went through. Successful trial generates assignment days where a larger number is assigned to students with low activity in class, this was added on request of my professor who said there were'nt enough features, however since they were not willing to provide data themselves, i had to edit it myself.
